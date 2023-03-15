@@ -1,0 +1,27 @@
+/* 
+  File.strings
+  OneLoginSDK
+
+  Created by noctis on 2022/3/25.
+  Copyright © 2022 geetest. All rights reserved.
+*/
+"ol_auth_dialog_agree"      = "Agree";
+"ol_auth_dialog_disagree"   = "Disagree";
+"ol_auth_dialog_title"      = "Guidelines such as service agreement and privacy policy";
+"ol_back"                   = "return";
+"ol_checked"                = "checked";
+"ol_unchecked"              = "unchecked";
+"ol_switch_account"         = "switch account";
+"ol_auth_btn"               = "one-click login";
+"ol_slogan_cm"              = "China Mobile Provides Authentication Service";
+"ol_slogan_ct"              = "Esurfing Account Provides Authentication Service";
+"ol_slogan_cu"              = "The Certification Service Is Provided By Unicom Unified Certification";
+"ol_term_connect_1"         = "sign in to agree ";
+"ol_term_connect_2"         = " and ";
+"ol_term_connect_3"         = ", ";
+"ol_term_connect_4"         = " and log in with my phone number";
+"ol_term_name_cm"           = "China Mobile Authentication Service Term";
+"ol_term_name_ct"           = "Esurfing Account Service and Privacy Agreement";
+"ol_term_name_cu"           = "Unicom Unified Authentication Service Term";
+"ol_terms_unchecked_toast"  = "Please agree to the service term";
+

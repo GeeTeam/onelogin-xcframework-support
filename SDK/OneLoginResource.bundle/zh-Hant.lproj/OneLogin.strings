@@ -1,0 +1,26 @@
+/* 
+  File.strings
+  OneLoginSDK
+
+  Created by noctis on 2022/3/25.
+  Copyright © 2022 geetest. All rights reserved.
+*/
+"ol_auth_dialog_agree"      = "同意並繼續";
+"ol_auth_dialog_disagree"   = "不同意";
+"ol_auth_dialog_title"      = "服務協議和隱私政策等指引";
+"ol_back"                   = "返回";
+"ol_checked"                = "已選中";
+"ol_unchecked"              = "未選中";
+"ol_switch_account"         = "切換賬號";
+"ol_auth_btn"               = "一鍵登錄";
+"ol_slogan_cm"              = "中國移動提供認證服務";
+"ol_slogan_ct"              = "天翼賬號提供認證服務";
+"ol_slogan_cu"              = "認證服務由聯通統一認證提供";
+"ol_term_connect_1"         = "登錄即同意";
+"ol_term_connect_2"         = "和";
+"ol_term_connect_3"         = "、";
+"ol_term_connect_4"         = "並使用本機號碼登錄";
+"ol_term_name_cm"           = "中國移動認證服務條款";
+"ol_term_name_ct"           = "天翼賬號服務與隱私協議";
+"ol_term_name_cu"           = "聯通統一認證服務條款";
+"ol_terms_unchecked_toast"  = "請同意服務條款";
