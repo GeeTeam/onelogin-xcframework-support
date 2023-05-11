@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/UAFCustomModel.h</key>
 		<data>
-		HJhqo8nhE/W40LSVGg3bwk0xBsg=
+		ltlTovNVVmwv5n5V6NB5hTWr1ww=
 		</data>
 		<key>Headers/UAFEnums.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/UAFSDKLogin.h</key>
 		<data>
-		IhiLxXAhzqx2U83LqGaL5UNheeI=
+		uQRuHikW9xF6ZhgUqhwITKvFqUg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oD/PB3WMuaA8/4QCWH/JYmNJKEs=
+		ZQ6Ieb3qM457PsxylNL1M0gTHmc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,11 +50,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJhqo8nhE/W40LSVGg3bwk0xBsg=
+			ltlTovNVVmwv5n5V6NB5hTWr1ww=
 			</data>
 			<key>hash2</key>
 			<data>
-			SAp/GYVk5jJ1zFTwjULlVCcIo3G7tvGc6gmMaziF/ic=
+			7xD6LqdnACMlTnemRqtJc5oEIr3Oz3UPjNjGhC6Pqr0=
 			</data>
 		</dict>
 		<key>Headers/UAFEnums.h</key>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IhiLxXAhzqx2U83LqGaL5UNheeI=
+			uQRuHikW9xF6ZhgUqhwITKvFqUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3V1gPcO3R96a0QDAtDJYxM63gEK/lJ2giJDcvrMSZ2c=
+			OPZa2Jcn7teFT1e6X1qtrdoszS1hW+lxlxGRjHsUio8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
