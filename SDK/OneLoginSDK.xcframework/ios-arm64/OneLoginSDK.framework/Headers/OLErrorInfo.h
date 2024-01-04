@@ -91,6 +91,7 @@ static NSString * const OLErrorCode_20414 = @"-20414";
 static NSString * const OLErrorCode_20415 = @"-20415";
 static NSString * const OLErrorCode_20416 = @"-20416";
 static NSString * const OLErrorCode_20417 = @"-20417";
+static NSString * const OLErrorCode_20418 = @"-20418";
 
 // ****************** -40... ******************/
 
