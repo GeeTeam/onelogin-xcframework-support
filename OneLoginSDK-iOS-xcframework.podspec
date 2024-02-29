@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'OneLoginSDK-iOS-xcframework'
-  s.version = '2.9.0'
+  s.version = '2.9.1'
   s.summary = '极验一键登录SDK'
   s.homepage = 'https://www.geetest.com'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.libraries = 'c++.1', 'z.1.2.8'
 
   s.subspec 'Main' do |dm|
-    dm.vendored_frameworks = 'SDK/EAccountApiSDK.xcframework','SDK/OAuth.xcframework','SDK/account_login_sdk_noui_core.xcframework', 'SDK/TYRZUISDK.xcframework', 'SDK/OneLoginSDK.xcframework'
+    dm.vendored_frameworks = 'SDK/EAccountApiSDK.xcframework','SDK/OAuth.xcframework', 'SDK/TYRZUISDK.xcframework', 'SDK/OneLoginSDK.xcframework'
     dm.resources = 'SDK/OneLoginResource.bundle'
   end
 
