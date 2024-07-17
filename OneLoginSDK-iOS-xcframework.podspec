@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name = 'OneLoginSDK-iOS-xcframework'
-  s.version = '2.9.1'
+  s.version = '2.9.4'
   s.summary = '极验一键登录SDK'
   s.homepage = 'https://www.geetest.com'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.weak_frameworks = 'Network'
 
   # 移动模拟器暂时只给了 x86_64 目标, 需要排除 arm64
-  s.pod_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386，arm64', 'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7' }
+  s.pod_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386', 'EXCLUDED_ARCHS[sdk=iphoneos*]' => 'armv7' }
 
 
   s.libraries = 'c++.1', 'z.1.2.8'

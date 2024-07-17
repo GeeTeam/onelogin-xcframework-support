@@ -82,7 +82,7 @@ static NSString * const OLPreGetTokenSuccessedTimeKey = @"preGetTokenSuccessedTi
 
 static NSString * const OLZidKey               = @"com.geetest.zid";
 
-static NSString * const OLSDKVersion           = @"2.9.1";
+static NSString * const OLSDKVersion           = @"2.9.4";
 
 static NSString * const OLFirstRegister        = @"f_r_o";
 
@@ -96,7 +96,7 @@ static NSString * const OLCarrierKey           = @"operator_key";
 static NSString * const OLCMSSCustid           = @"get_token_custid";
 
 static NSString * const OLCMTermTitle          = @"中国移动认证服务条款";
-static NSString * const OLCMTermLink           = @"http://wap.cmpassport.com/resources/html/contract.html";
+static NSString * const OLCMTermLink           = @"https://wap.cmpassport.com/resources/html/contract.html";
 static NSString * const OLCMSlogan             = @"中国移动提供认证服务";
 
 static NSString * const OLCUTermTitle          = @"联通统一认证服务条款";
@@ -124,6 +124,7 @@ static NSInteger const OLMaxKeyWindowNilRetryTime = 2;
 
 static NSString * const OLCustomedServerURLKey = @"CustomedServerURL";
 static NSString * const OLPrivatizationKey     = @"Privatization";
+static NSInteger const OLDefaultPreGetConfigRetryTime = 3600;
 
 // MARK: OnePass
 

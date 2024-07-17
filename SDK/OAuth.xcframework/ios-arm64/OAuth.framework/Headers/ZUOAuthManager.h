@@ -2,10 +2,8 @@
 //  ZUOAuthManager 联通能力接入管理者
 //  OAuthSDKApp
 //
-//  Created by 联通在线 on 2019/5/13.
+//  Created by zhangQY on 2019/5/13.
 //  Copyright © 2019 com.zzx.sdk.ios.test. All rights reserved.
-//
-//国际算法 620
 //
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
