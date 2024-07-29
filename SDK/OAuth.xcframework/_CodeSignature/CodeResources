@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		uBD9udQTvR6bf6GXvzCVtdCaqog=
-		</data>
 		<key>ios-arm64/OAuth.framework/Headers/OAuth.h</key>
 		<data>
 		pu1trd9OSkxlth0gbsBKtMCXbMI=
@@ -18,7 +14,7 @@
 		</data>
 		<key>ios-arm64/OAuth.framework/Info.plist</key>
 		<data>
-		NrmBPX2YcHqk13uuLDFcw6EQKgA=
+		WXh3/5l6LipQpH0WeRUiD//yrMc=
 		</data>
 		<key>ios-arm64/OAuth.framework/Modules/module.modulemap</key>
 		<data>
@@ -26,7 +22,7 @@
 		</data>
 		<key>ios-arm64/OAuth.framework/OAuth</key>
 		<data>
-		TUhNHiJl0mxKBCg+caFnDhxf5/E=
+		9EgqEVeGxEAmkIbiopAj06eBjWQ=
 		</data>
 		<key>ios-arm64/OAuth.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,7 +30,7 @@
 		</data>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		ogagHy6NWlg5x18umxseO3MFTnA=
+		uPJvsG6lhlTmYxv/QpyK5prbAKA=
 		</data>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -42,15 +38,15 @@
 		</data>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		ZMp/8sqjsjwoi6FSOPgwtvgDUpw=
+		wqgnS+WuMUI0+AsdxLb+s8Tf71c=
 		</data>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Dy69hd3N0cqdhjlD2dl6nBfBGKU=
+		zOHIE2WkeaYnyBy5ddfqhbixZ8g=
 		</data>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		9Vd0SpGTSnmA8QP2/2peUyGB9xg=
+		506z5zGQF2bGw2GDZDAqwn3zE+k=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/Headers/OAuth.h</key>
 		<data>
@@ -62,7 +58,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/Info.plist</key>
 		<data>
-		WbUBYUeLDBZmZvXSUj71i+MIsDI=
+		1Hm5u/4Q59QARQLr9fqCDWwVBOQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/Modules/module.modulemap</key>
 		<data>
@@ -70,7 +66,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/OAuth</key>
 		<data>
-		N7yKE1W7aCfKPvmM40jsHgfXl/0=
+		Gfo1YPcqGQeY/6sGY1ToHGRf5s0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -78,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		W3Gynji337GATzLcKT48tIdbLr8=
+		mfEQTGLwnLVCAcRKOStBF2I/72Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,11 +82,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		lFvuFjINSgTXq7Cn8eo8gKM1LXk=
+		AKexTys4p71rHYSRbE9fULXolNA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rN3d2LIjIVJbOfG1TQ7TAKzgYJQ=
+		ynhFdQpoHfxfbUmQ15kW47xsioo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeSignature</key>
 		<data>
@@ -125,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NrmBPX2YcHqk13uuLDFcw6EQKgA=
+			WXh3/5l6LipQpH0WeRUiD//yrMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			n8VDDjEd0y4CklvKlt5nY1eyD2KBXVOS0q4vyyEf9o4=
+			Lkoa3O9lB7rWmgu7cU/09Y9eRmk7r+P06+fVx4vQRpE=
 			</data>
 		</dict>
 		<key>ios-arm64/OAuth.framework/Modules/module.modulemap</key>
@@ -147,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TUhNHiJl0mxKBCg+caFnDhxf5/E=
+			9EgqEVeGxEAmkIbiopAj06eBjWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			rulRyoroXrerzBP8cY1p40JqOdjCDiHgFcu0G4NWga0=
+			Ekh5bqm/lxPTXpcygnw3qWfVct1dXYsTRNlBDaMsC6E=
 			</data>
 		</dict>
 		<key>ios-arm64/OAuth.framework/PrivacyInfo.xcprivacy</key>
@@ -169,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ogagHy6NWlg5x18umxseO3MFTnA=
+			uPJvsG6lhlTmYxv/QpyK5prbAKA=
 			</data>
 			<key>hash2</key>
 			<data>
-			9S8+g5IQbff4uzCIeDlhdGUOa4hpeD9FVUIaT0tYQK8=
+			USX3j7EbW2li5Tz1Zptpww0iYgnZsWTKT1ZyTF0YuKI=
 			</data>
 		</dict>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeRequirements</key>
@@ -191,33 +187,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZMp/8sqjsjwoi6FSOPgwtvgDUpw=
+			wqgnS+WuMUI0+AsdxLb+s8Tf71c=
 			</data>
 			<key>hash2</key>
 			<data>
-			0NP4CpjYEUnw+pV/D8JbZEZuBpViy6hBNIIrpcwwc9Q=
+			bxlsIZt0rA+EKATSeaVXabLB3VIeGkiWr7RiEiMf2VM=
 			</data>
 		</dict>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dy69hd3N0cqdhjlD2dl6nBfBGKU=
+			zOHIE2WkeaYnyBy5ddfqhbixZ8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			6ET0e7vfswG83pC5E4XUTUy2QpdPE+2SQPz2dPePvl8=
+			EYcqsbOmSzgSZqDe0woEvR3yjRWXuLWISqurEvqoXaM=
 			</data>
 		</dict>
 		<key>ios-arm64/OAuth.framework/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9Vd0SpGTSnmA8QP2/2peUyGB9xg=
+			506z5zGQF2bGw2GDZDAqwn3zE+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			ORZTbWiAJuazA1lJJOCE2/AkaW2JLwoDgvX/MJk7F1g=
+			B7yQWIblb8Egf1Gt5dXoJp+h1QkUMcMwSL+HWrLMmXA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/Headers/OAuth.h</key>
@@ -246,11 +242,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WbUBYUeLDBZmZvXSUj71i+MIsDI=
+			1Hm5u/4Q59QARQLr9fqCDWwVBOQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			CzLixDGn5/+KeSdXz8hLD8dGlz0W1ZUR7LKp2N3ur2E=
+			mYia//HgF9FcW32ASLMiFMxCinWMRnBxPQISLiQ7Iy4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/Modules/module.modulemap</key>
@@ -268,11 +264,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N7yKE1W7aCfKPvmM40jsHgfXl/0=
+			Gfo1YPcqGQeY/6sGY1ToHGRf5s0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ryEG/9+LTfkWE8LbFJuKJGBY+eLH4XQXRYg4eFUAGxg=
+			ORZ3B+8VjdeH4UFBgjf/RkzOwfgDRCb5T65P8aayp24=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/PrivacyInfo.xcprivacy</key>
@@ -290,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			W3Gynji337GATzLcKT48tIdbLr8=
+			mfEQTGLwnLVCAcRKOStBF2I/72Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			xNn3Gvw4rpgxzsLS5pIrl4/MDd4Y/5lMwzV1FOdKp7c=
+			reMzseib7dlsLKQznQE2aLPTBBfH+zowS32v0O95NGA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeRequirements</key>
@@ -312,22 +308,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lFvuFjINSgTXq7Cn8eo8gKM1LXk=
+			AKexTys4p71rHYSRbE9fULXolNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			aavOVtbeI4XTDsKa35YFgz7w0GND7qO6bz2sIHnrHXQ=
+			8HiGxtUkK6nsOcPlvaYrxG6Mo7OvD0yIe4LeTiMgImU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rN3d2LIjIVJbOfG1TQ7TAKzgYJQ=
+			ynhFdQpoHfxfbUmQ15kW47xsioo=
 			</data>
 			<key>hash2</key>
 			<data>
-			66zxz0qc6RcT7pCuCk/hDWZL5chtC1x5WcrwCN7TNj8=
+			MiaWtxJ82AtTB9Qhigu+EAc3a8BCkAL6UVjOtp2a3Vw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/OAuth.framework/_CodeSignature/CodeSignature</key>
