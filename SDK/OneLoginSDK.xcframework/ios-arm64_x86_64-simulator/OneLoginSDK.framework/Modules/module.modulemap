@@ -1,6 +1,6 @@
 framework module OneLoginSDK {
   umbrella header "OneLoginSDK.h"
-
   export *
+
   module * { export * }
 }
