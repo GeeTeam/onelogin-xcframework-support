@@ -27,3 +27,5 @@ FOUNDATION_EXPORT const unsigned char OneLoginSDKVersionString[];
 #import <OneLoginSDK/OLKeyWindowUtil.h>
 #import <OneLoginSDK/OLSizeUtil.h>
 #import <OneLoginSDK/OLButton.h>
+#import <OneLoginSDK/OneLogin+NoUI.h>
+#import <OneLoginSDK/OneLoginPro+NoUI.h>

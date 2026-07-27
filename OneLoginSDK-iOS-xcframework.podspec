@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name = 'OneLoginSDK-iOS-xcframework'
-  s.version = '2.9.8.1'
+  s.version = '2.9.10'
   s.summary = '极验一键登录SDK'
   s.homepage = 'https://www.geetest.com'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = { 'Geetest' => 'develop@geetest.com' }
-  s.source = { :git => 'https://github.com/GeeTeam/onelogin-xcframework-support.git', :tag => s.version.to_s, :submodules => true } 
+  s.source = { :git => 'https://github.com/GeeTeam/onelogin-xcframework-support.git', :tag => s.version.to_s, :submodules => true }
   s.ios.deployment_target = '11.0'
 
   s.frameworks = 'CFNetwork', 'CoreTelephony', 'Foundation', 'SystemConfiguration', 'UIKit'
