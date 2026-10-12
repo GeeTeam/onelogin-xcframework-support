@@ -19,6 +19,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)updateText:(NSAttributedString *)text edgeMargin:(double)edgeMargin bgColor:(UIColor *)bgColor backBtnImage:(UIImage *)image control:(nullable UIView *)control;
 
+- (void)updateAppearanceWithBackgroundColor:(UIColor *)bgColor backButtonImage:(UIImage *)image;
+
 - (void)updatePortraitConstraints:(OLRect)backButtonRect;
 - (void)updateLandscapeConstraints:(OLRect)backButtonRect;
 

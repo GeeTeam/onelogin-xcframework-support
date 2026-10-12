@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/TYRZUISDK.h</key>
 		<data>
-		rm4pzqrAN7QopXwBkJyIZBM6qc4=
+		plEQybayk+PdO7JtznPTLC1OSpQ=
 		</data>
 		<key>Headers/UAFCustomModel.h</key>
 		<data>
-		ltlTovNVVmwv5n5V6NB5hTWr1ww=
+		2UixtrIjPXbahiNtmBcWuKgNwWg=
 		</data>
 		<key>Headers/UAFEnums.h</key>
 		<data>
-		IFUODURH70sJmORs3hxrEN5kjZk=
+		JfAObmcYfZSrOEwTCAY3GR7UmBw=
 		</data>
 		<key>Headers/UAFSDKErrorCode.h</key>
 		<data>
@@ -22,11 +22,15 @@
 		</data>
 		<key>Headers/UAFSDKLogin.h</key>
 		<data>
-		kBGDE7uh8v+D96g4jTiMY+PUp3Q=
+		kK3NBARUt3m/5RdQPAf5Gh7bLhw=
+		</data>
+		<key>Headers/UAFWKLoginView.h</key>
+		<data>
+		cs7lNmX6WGLTzP7VnLXTCn0pELQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0IJ/0uWeUZsr3nTXHSO5sslG2yk=
+		vqEYrFF2nj51UAylryfva8HoBU8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,33 +47,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rm4pzqrAN7QopXwBkJyIZBM6qc4=
+			plEQybayk+PdO7JtznPTLC1OSpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vdpcs7XowPTcaDLnhiRt7O8SBTdw1h7uAF8KKRvui08=
+			vIR3dq/hyOFlWR2vdgBpgjUNnoCoA2Ry7AhevhVCZoA=
 			</data>
 		</dict>
 		<key>Headers/UAFCustomModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ltlTovNVVmwv5n5V6NB5hTWr1ww=
+			2UixtrIjPXbahiNtmBcWuKgNwWg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7xD6LqdnACMlTnemRqtJc5oEIr3Oz3UPjNjGhC6Pqr0=
+			bK2ZmtXgfIfy13xr8CEeUjjjtuWKBO7hZnvgGGF9vvs=
 			</data>
 		</dict>
 		<key>Headers/UAFEnums.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IFUODURH70sJmORs3hxrEN5kjZk=
+			JfAObmcYfZSrOEwTCAY3GR7UmBw=
 			</data>
 			<key>hash2</key>
 			<data>
-			WmqVyWgoQeXt4LR9UBPRWd2XvuqyUFApL0qwdm7THOQ=
+			/susWyfr9e/1KIIMRnnjnOZWDEQEKSJvzWgOW7xDcXE=
 			</data>
 		</dict>
 		<key>Headers/UAFSDKErrorCode.h</key>
@@ -87,11 +91,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kBGDE7uh8v+D96g4jTiMY+PUp3Q=
+			kK3NBARUt3m/5RdQPAf5Gh7bLhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yZ9sSYUTowE/l4Fydrs6klbiGwp7jDXxICd4yavbc2g=
+			iIbUcsLtuZaK5viA8ysIiZUq/iaKMo5zVOy+fxJNVzY=
+			</data>
+		</dict>
+		<key>Headers/UAFWKLoginView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cs7lNmX6WGLTzP7VnLXTCn0pELQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			xII6obVdZmCMJKzZ0E0KLnrlcvAv1m3BEFcF9IoNXzY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
